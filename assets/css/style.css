@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+}
+
+html, body{
+	color: #777777;
+	background-image: url("../images/psychic-wallpaper-1920x1080.jpg");
+	border-color: #eeeeee;
+	font-size: 20px;
+	line-height: 30px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-color: #ffcfbc;  
+    height: 100%;  	
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 40px;
+}
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -4em;
+}
+
+.mainHeader{
+	columns: 
+}
+
+#game{
+	text-align: left;
+}
+
+#container{
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	clear: both;	
+}
